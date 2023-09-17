@@ -1,0 +1,11 @@
+# Prerequisites
+*.d
+
+#exclude .vs
+/.vs/*
+
+#exclude .vs
+.vs/
+
+#exclude bin
+bin/
